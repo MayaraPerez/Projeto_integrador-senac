@@ -3,10 +3,12 @@ Titulo - Projeto_integrador-senac 🏅
 <br>
 Status do projeto - 🚧 Desenvolvimento 🚧 
 <br>
-Tecnologias - Linguagem de programação - Java Web <br> ☕
+Tecnologias - Linguagem de programação <br>
+            - Java Web                   Java     <br> ☕
             - Banco de dados -           Mysql    <br> 🐬
             - Linguagem de Marcação -    HTML     <br> 🦴
             - linguagem de estilo -      CSS      <br> 🍗
+<br>
 <br>
 Time -  Eu mesma!  🙋🏽‍♀️
 <br>
